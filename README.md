@@ -1,4 +1,4 @@
-# "Blockchain" Puzzle
+![Actively Coding Test](https://d1qb2nb5cznatu.cloudfront.net/startups/i/4167157-14c67fcf812c9c85896724d0a8fe85a2-medium_jpg.jpg?buster=1512360378)
 
 ## To get started
 
@@ -28,8 +28,3 @@ like this:
 
 ![state 2](https://trottski.s3.amazonaws.com/snaps/stage2.jpg)
 
-## Notes
-Please do not publicly fork this repository, if you submit via github (prefered) please downlaod the zip and init your own repo, this is so that other people can't copy your work.
-Feel free to overwrite this section of the readme with anything you think we should know about your solution.
-
-Good luck!
